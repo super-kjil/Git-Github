@@ -1,6 +1,6 @@
 ## Git and Github:
 
-Git គឺជា​ Version Control System. វាមិនមែនជា Language​ ឬ Framwork​ វាគ្រាន់តែជា System​ មួយ ដំណ់រការរបស់វាយ់ងត្រូវប្រតិបត្តិដោយសរសេរ Command Line. 
+Git គឺជា​ Version Control System. វាមិនមែនជា Language​ ឬ Framwork​ វាគ្រាន់តែជា System​ មួយ ដំណើរការរបស់វាយើងត្រូវប្រតិបត្តិដោយសរសេរ Command Line. 
 យ៉ាងណាក៏ដោយកម្មវិធីជាច្រើនតែងមានភ្ជាប់នូវឧបករណ៏សំរាប់ប្រើប្រាស់ Git ដោយមិនចាំបាច់ប្រើ Command Line.
 
 ដើម្បីប្រើ​ Git បានយើងត្រូវមាន Git System នៅក្នុង Local Machine របស់យើងសិន។
