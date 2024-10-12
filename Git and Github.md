@@ -18,6 +18,7 @@ Repository​ ឬ Repo គឺដូចទៅនឹង Folder​ មួយដែ�
 `git add .`  សម្រាប់​ Add​ File or Folder ទាំងអស់។
 
 `git config --global user.email` your@yourdomain.example.com
+
 `git config --global user.name` "Your name"
 
 `git commit` សម្រាប់បញ្ជូន file​ ឬ folder ទាំងអស់ដែលនៅក្នុង stage ចូលទៅក្នុង repo​ របស់កុំព្យូទ័រ ហើយដាក់ `-m "Yor command"` សម្រាប់សរសេរពាក្យនៃកំណែថ្មី។
